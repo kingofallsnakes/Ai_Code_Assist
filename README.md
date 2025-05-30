@@ -38,7 +38,7 @@ code_assistant_app/
 ### 1️⃣ Clone or Download
 
 ```bash
-git clone https://github.com/yourname/code-assistant-app.git
+git clone https://github.com/kingofallsnakescode-assistant-app.git
 cd code-assistant-app
 ```
 
@@ -75,9 +75,9 @@ client = OpenAI(api_key="YOUR_API_KEY")
 
 ## 📷 Screenshots
 
-| Ask AI                                                  | Output Panel                                                         |
-| ------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![ask](https://via.placeholder.com/400x250?text=Ask+AI) | ![output](https://via.placeholder.com/400x250?text=Formatted+Answer) |
+| Ask AI                                                                                    | Output Panel                                                                              |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![Image](https://github.com/user-attachments/assets/8812ebc5-b183-4066-9518-7ca48787f04a) | ![Image](https://github.com/user-attachments/assets/3fa89fce-d6b5-4a7c-8ffe-d1352e16ab00) |
 
 ---
 
@@ -102,13 +102,3 @@ Use the **"Show/Hide History"** button to view inside the app.
 ## 📄 Save as PDF
 
 Click **💾 Save PDF** to download your answer with full formatting and styles.
-
----
-
-## 📜 License
-
-This project is free for educational and personal use.
-
----
-
-Would you like me to ZIP this full app and share it as a download?
